@@ -1,3 +1,8 @@
+# Zeus And Tellus, an AI service company
+- KaggleOps platform
+- AI service
+- AWS,GCP build
+
 ### Hi there 👋
 
 <!--
